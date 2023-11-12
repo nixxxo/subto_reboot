@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Discord Bots",
+		"description": "We offer customizable, fast and reliable Discord bots that include features like: Staff and Member activity manager, moderation commands and automation, react roles, affiliates and much more.",
+		"imgSrc": "/features/discord-bot.png"
+	},
+	{
+		"name": "Personalised Analytics",
+		"description": "We offer customizable, usefull and easy to read and understand analytics for your Discord servers. Information that will help you with the growth of your community and stats you can show to potential customers and partners.",
+		"imgSrc": "/features/analytics.png"
+	},
+	{
+		"name": "Templates",
+		"description": "We are different, we offer customizable templates for your store checkout page, so that your customers will feel at home, seeing the brand’s color, logo, cover photo, personal text and even video.",
+		"imgSrc": "/features/templates.png"
+	},
+	{
+		"name": "Low Prices",
+		"description": "We offer the lowest fees off your profit and the lowest monthly processing fee. We want you to succeed so we can be right beside you.",
+		"imgSrc": "/features/prices.png"
+	}
+]

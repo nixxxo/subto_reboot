@@ -1,0 +1,18 @@
+{
+	"allIn": {
+		"3 Templates": true,
+		"Unlimited Products": true,
+		"Ultimate Discord bot": true,
+		"Personalized Analytics": true,
+		"Lower Fee": true,
+		"Priority Support Role": true
+	},
+	"startUp": {
+		"1 Template": true,
+		"3 products": true,
+		"Ultimate Discord bot": false,
+		"Personalized Analytics": false,
+		"Lower Fee": false,
+		"Priority Support Role": false
+	}
+}
